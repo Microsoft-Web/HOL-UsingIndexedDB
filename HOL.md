@@ -3,7 +3,9 @@
 ## Overview ##
 
 HTML5 is the emerging standard for building and writing HTML webpages for web applications and sites. One of the things that HTML5 is trying to solve is the problem of storing data on the client-side. In the past, storage mechanisms on the client-side were very limited. Today, with the emerging HTML5 JavaScript APIs there are new storage capabilities such as Web Storage API and IndexedDB API. 
+
 The HTML5 IndexedDB API provides a client-side index database that includes querying and storage mechanisms. The IndexedDB storage can save JavaScript objects and exposes the options to retrieve them very fast.  
+
 In this lab, you will use the HTML5 IndexedDB API in order to save the images that are being created in the FacePlace application.
 
 ### Objectives ###
@@ -32,6 +34,7 @@ Estimated time to complete this lab: **30-45 minutes**.
 ### Exercise 1 - Using IndexedDB for Storing Images ###
 
 The starting point for this exercise is the solution located in the lab installation folder under the **Source\Begin** folder.
+
 The solution contains a project with all the storage functionality implemented. As you progress through the exercise, you will gradually create the **database** object and its integration into the **FacePlace** application.
 
 <a name="Ex1Task1" />
