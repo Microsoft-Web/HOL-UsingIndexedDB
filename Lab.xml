@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lab xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>UsingIndexedDB</Id>
+  <Author>
+    <Blog>
+    </Blog>
+    <Email>
+    </Email>
+    <Name></Name>
+  </Author>
+  <Description>The HTML5 IndexedDB API provides a client-side index database that includes querying and storage mechanisms. The IndexedDB storage can save JavaScript objects and exposes the options to retrieve them very fast. 
+  In this lab, you will use the HTML5 IndexedDB API in order to save the images that are being created in the FacePlace application.
+  </Description>
+  <Document ConversionType="Html">.\HOL.md</Document>
+  <Title>Using IndexedDB</Title>
+  <Version>1.0.4</Version>
+  <Source>.\Source</Source>
+  <!-- <DependencyChecker>.\Source\Setup\Dependencies.depi</DependencyChecker> -->
+  <!-- <Technologies>
+    <Technology>Internet Explorer 10</Technology>
+    <Technology>IndexedDB</Technology>
+  </Technologies> -->
+  <CustomProperties>    
+	<Property Name="GitHubRepository" Value="https://github.com/Microsoft-Web/HOL-UsingIndexedDB" />
+  </CustomProperties>
+</Lab>
